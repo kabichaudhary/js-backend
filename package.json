@@ -1,0 +1,19 @@
+{
+  "name": "js-backend",
+  "version": "1.0.0",
+  "description": "a complete back tuts in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabichaudhary/js-backend.git"
+  },
+  "author": "kabi chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kabichaudhary/js-backend/issues"
+  },
+  "homepage": "https://github.com/kabichaudhary/js-backend#readme"
+}
